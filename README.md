@@ -18,7 +18,7 @@
 <a href="https://www.hackerrank.com/profile/amansoori179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sana mansoori" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sana_mansoori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sana mansoori" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@2119485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sana mansoori" height="30" width="40" /></a>
-<a href="https://learn.microsoft.com/en-us/users/sanamansoori-5837/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/microsoft.svg" alt="sana mansoori" height="30" width="40" /></a>
+<a href="https://learn.microsoft.com/en-us/users/sanamansoori-5837/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMicrosoft_logo.svg&psig=AOvVaw3EBJtDZF5H5ViKPBFKgPa-&ust=1716448448297000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNj48fXaoIYDFQAAAAAdAAAAABAJ" alt="sana mansoori" height="30" width="40" /></a>
 
 </p>
 

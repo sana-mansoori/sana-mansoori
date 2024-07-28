@@ -4,7 +4,9 @@
 <p align="justify">Hi, this is <b>Sana Mansoori</b>, a pre-final-year student in BTech. My major is Computer science, and I enjoy problem-solving. My preferred languages for Data structures and Algorithms are C++ and Java. I have experience in some other languages like C, Python, and HTML. I am highly dedicated to my goals and have a strong sense of purpose.<br>I am "Ambitious", "devoted," and "Neophile" with a deep interest in "Tech" and "Management". I like a variety of things, including programming and nature photography, but my main objective is to improve science and technology for the long term. I am a voracious learner who always looks for growth opportunities through networking events, workshops, and courses. As the Editorial/Documentation Head of the IEEE Student Branch, an engineering technical organization, I usually plan activities that emphasize entrepreneurship, professional skills, leadership, and coding.</p>
 <img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, Artificial Intelligence**
+
+- 🌱 I’m currently learning **MERN, Data Science, Machine Learning, Artificial Intelligence**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sana-mansoori&label=Profile%20views&color=0e75b6&style=flat" alt="sana-mansoori" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sana-mansoori-067783232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sana mansoori" height="30" width="40" /></a>

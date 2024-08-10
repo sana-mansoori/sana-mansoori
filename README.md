@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sana-mansoori-067783232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sana mansoori" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sana-mansoori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sana-mansoori" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/amansoori179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sana-mansoori" height="30" width="40" /></a>
 <a href="https://discord.gg/Sana Mansoori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sana mansoori" height="30" width="40" /></a>
 <a href="https://codesandbox.com/amansoori179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sana mansoori" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/in/sanamansoori179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sana mansoori" height="30" width="40" /></a>
